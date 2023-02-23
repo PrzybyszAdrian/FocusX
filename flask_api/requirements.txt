@@ -1,0 +1,7 @@
+Flask
+Jinja2
+cohere
+pinecone
+openai
+python-dotenv
+PyPDF2
